@@ -16,6 +16,7 @@
 ## 📂 Featured Projects
 - Coming soon
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
+
 <img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 <!--
 **imranchowdhury869/imranchowdhury869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
