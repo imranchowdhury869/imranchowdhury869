@@ -12,7 +12,7 @@
 - Continuously building projects to enhance practical analytics skills and deliver **data-driven solutions**
 
 ---
-<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
+<img alt="Coding Cat" src="./assets/coding.webp" />
 
 ## 📂 Featured Projects
 - Coming soon
