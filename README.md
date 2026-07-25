@@ -1,6 +1,6 @@
 # Hi 👋 I'm Imran
 
-🎯 **Data Analyst** | SQL • Python • Power BI • Excel  
+🎯 **Data Analyst** | SQL • Power BI • Excel  
 📊 Turning raw data into business decisions through analytics & storytelling
 
 ---
