@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Imran
+
+🎯 **Data Analyst** | SQL • Python • Power BI • Excel  
+📊 Turning raw data into business decisions through analytics & storytelling
+
+---
+
+## 🚀 About Me
+- Data Analyst with hands-on experience in **real-world projects**
+- Skilled in **data cleaning, analysis, visualization, and generating actionable insights**
+- Passionate about **business analytics, KPIs, and data storytelling**
+- Continuously building projects to enhance practical analytics skills and deliver **data-driven solutions**
+
+---
+
+## 📂 Featured Projects
+- Coming soon
+<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 <!--
 **imranchowdhury869/imranchowdhury869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
