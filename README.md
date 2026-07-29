@@ -13,8 +13,6 @@
 
 ---
 
-## 📂 Featured Projects
-- Coming soon
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 
 <!--
@@ -31,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📂 Featured Projects
