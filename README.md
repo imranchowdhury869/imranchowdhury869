@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📂 Featured Projects
-- **SQL**  
+**SQL Projects**  
 
 - **SQL Retail Sales Project**  
   Analyzed 2,000+ transactions to uncover sales trends.  
