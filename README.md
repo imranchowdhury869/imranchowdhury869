@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 - **SQL Retail Sales Project**  
   Analyzed 2,000+ transactions to uncover sales trends.  
-  🔗 [View Repository]([https://github.com/imranchowdhury869/SQL_RET_SALES_PROJECT-1#retail-sales-analysis-sql-project]
+  🔗 [View Project]([https://github.com/imranchowdhury869/SQL_RET_SALES_PROJECT-1#retail-sales-analysis-sql-project]
