@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 **SQL Projects**  
 
-- **SQL Retail Sales Project**  
+- **1.SQL Retail Sales Project**  
   Analyzed 2,000+ transactions to uncover sales trends.
   🔗 [View Project](https://github.com/imranchowdhury869/SQL_RET_SALES_PROJECT-1#retail-sales-analysis-sql-project)
 
-- **SQL Retail Sales Analysis Project P-2**  
+- **2.SQL Retail Sales Analysis Project P-2**  
   Analyzed 10,000+ transactions to uncover sales trends.
   🔗 [View Project](https://github.com/imranchowdhury869/Retail-Sales-Analysis-SQL-project-2.git)
