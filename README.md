@@ -1,4 +1,5 @@
 <div align="Center">
+  
 # Hi 👋 I'm Imran
 
 🎯 **Data Analyst** | SQL • Power BI • Excel  
