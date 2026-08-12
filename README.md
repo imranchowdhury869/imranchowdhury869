@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   Analyzed 10,000+ transactions to uncover sales trends.
   🔗 [View Project](https://github.com/imranchowdhury869/Retail-Sales-Analysis-SQL-project-2.git)
 
+**ADVANCE EXCEL Projects** 
+
 - **3.Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel P-3**  
   🔗 [View Project](https://github.com/imranchowdhury869/Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel)
 
