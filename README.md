@@ -5,7 +5,7 @@
 🎯 **Data Analyst** | SQL • Power BI • Excel  
 📊 Turning raw data into business decisions through analytics & storytelling
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Open+to+switch+Data+Analyst+%2F+Sr.MIS+Analyst+roles)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;Open+to+switch+for+Data+Analyst+%2F+Sr.MIS+Analyst+roles)
 
 </div>
 ---
