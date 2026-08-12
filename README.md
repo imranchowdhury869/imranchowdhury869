@@ -4,7 +4,7 @@
 
 **Data Analyst**|SQL • Power BI • Excel
 
-![Typing SVG](https://readme-typing-svg.demolab.com/font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Turning+raw+data+into+business+decisions+through+analytics+&+storytelling;Open+to+switch+job+for+Data+Analyst+For+Sr.MIS+Analyst+roles)
+![Typing SVG](https://readme-typing-svg.demolab.com?/font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Turning+raw+data+into+business+decisions+through+analytics+&+storytelling;Open+to+switch+job+for+Data+Analyst+For+Sr.MIS+Analyst+roles)
 
 </div>
 
