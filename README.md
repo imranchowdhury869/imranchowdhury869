@@ -1,8 +1,10 @@
+<div align="Center">
 # Hi 👋 I'm Imran
 
 🎯 **Data Analyst** | SQL • Power BI • Excel  
 📊 Turning raw data into business decisions through analytics & storytelling
 
+</div>
 ---
 
 ## 🚀 About Me
