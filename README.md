@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 **ADVANCE EXCEL Projects** 
 
-- **3.Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel P-3**  
+- **1.Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel P-3**  
   🔗 [View Project](https://github.com/imranchowdhury869/Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel)
 
