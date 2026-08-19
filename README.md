@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 - **1.Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel P-3**  
   🔗 [View Project](https://github.com/imranchowdhury869/Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel)
 
+- **2.Modstar Tom Ford Sales Analytics – Excel Dashboard P-4**  
+  🔗 [View Project](https://github.com/imranchowdhury869/Modstar-Tomford-sales-analytics)
