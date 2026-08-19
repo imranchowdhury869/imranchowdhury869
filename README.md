@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📂 Featured Projects
-**SQL Projects**  
+**SQL PROJECTS**  
 
 - **1.SQL Retail Sales Project**  
   Analyzed 2,000+ transactions to uncover sales trends.
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   Analyzed 10,000+ transactions to uncover sales trends.
   🔗 [View Project](https://github.com/imranchowdhury869/Retail-Sales-Analysis-SQL-project-2.git)
 
-**ADVANCE EXCEL Projects** 
+**ADVANCE EXCEL PROJECTS** 
 
 - **1.Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel P-3**  
   🔗 [View Project](https://github.com/imranchowdhury869/Graphical-Sale-Presentation-Dashboard-till-Jul-26-since-year-2024-by-using-Excel)
