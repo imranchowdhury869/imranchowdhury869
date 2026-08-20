@@ -52,3 +52,14 @@ Here are some ideas to get you started:
 
 - **2.Sales Analytics – Excel Dashboard P-4**  
   🔗 [View Project](https://github.com/imranchowdhury869/Modstar-Tomford-sales-analytics)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[imran-chowdhury-6565871a2]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/"imranchowdhury869" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=imran.chowdhury099@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /</a>
+</p>
+
